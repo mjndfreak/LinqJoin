@@ -1,0 +1,15 @@
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/bin/Debug/net8.0/LinqJoin
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/bin/Debug/net8.0/LinqJoin.deps.json
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/bin/Debug/net8.0/LinqJoin.runtimeconfig.json
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/bin/Debug/net8.0/LinqJoin.dll
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/bin/Debug/net8.0/LinqJoin.pdb
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.AssemblyInfoInputs.cache
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.AssemblyInfo.cs
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.csproj.CoreCompileInputs.cache
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.dll
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/refint/LinqJoin.dll
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.pdb
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.genruntimeconfig.cache
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/ref/LinqJoin.dll
+/Users/cagdasergenc/RiderProjects/LinqJoin/LinqJoin/obj/Debug/net8.0/LinqJoin.sourcelink.json
